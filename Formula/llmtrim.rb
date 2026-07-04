@@ -2,8 +2,8 @@
 class Llmtrim < Formula
   desc "Static, deterministic LLM prompt/payload compressor"
   homepage "https://github.com/fkiene/llmtrim"
-  url "https://github.com/fkiene/llmtrim/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "5fbfa38799b05119520e2f5f67ce62b6be5ed45c264688ac80a3b89a10ed83ca"
+  url "https://github.com/fkiene/llmtrim/archive/refs/tags/v0.6.2.tar.gz"
+  sha256 "bd4e69225d603de40b0e16540c28da7621736650e7f2cf31ee451d83c0cb9c85"
   license "MPL-2.0"
   head "https://github.com/fkiene/llmtrim.git", branch: "main"
 
